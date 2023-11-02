@@ -34,3 +34,13 @@ Plot the results as a bar chart.
 
 
 In this a file, there is web-scraping and data analysis on Mars Weather data. Through this data, you can see the months on mars, the temperature, and average pressure of the daily atmosphere. Web scraping allowed analyzation through other data to create visualizations. 
+
+Average Low Temperature:
+
+<img width="600" alt="Screen Shot 2023-11-01 at 8 00 33 PM" src="https://github.com/sambarbeyy/11-Mars_News/assets/135924263/ebd10b0e-10a0-49ca-8f5a-72f5f4b717b5">
+
+Minimum Temperature:
+
+<img width="594" alt="Screen Shot 2023-11-01 at 8 00 48 PM" src="https://github.com/sambarbeyy/11-Mars_News/assets/135924263/3a248a04-df14-43d5-acdd-659a09566f42">
+
+
